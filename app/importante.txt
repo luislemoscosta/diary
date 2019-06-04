@@ -1,0 +1,1 @@
+-nunca enviar a pasta node-modules para o servidor. colocar ela no gitignore

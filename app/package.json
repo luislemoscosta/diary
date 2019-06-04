@@ -1,0 +1,25 @@
+{
+  "name": "diario",
+  "version": "1.0.0",
+  "description": "diario do usuario",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "C:\\Users\\luis\\Desktop\\appeng\\userdiario\\.git"
+  },
+  "keywords": [
+    "diario"
+  ],
+  "author": "luis",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "generate-schema": "^2.6.0"
+  }
+}
